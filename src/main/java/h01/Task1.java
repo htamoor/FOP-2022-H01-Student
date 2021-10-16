@@ -1,13 +1,11 @@
-package H01;
+package h01;
 
 import fopbot.*;
-import H01.misc.PropertyConverter;
-import H01.misc.PropertyException;
+import h01.misc.PropertyConverter;
+import h01.misc.PropertyException;
 
 import java.io.*;
 import java.util.Random;
-
-import static fopbot.Direction.*;
 
 /**
  * Task 1 of Hausuebung01 of "Funktionale und objektorientierte
