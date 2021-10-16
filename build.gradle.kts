@@ -3,11 +3,12 @@ import org.jagrkt.submitter.submit
 plugins {
   java
   application
-  id("org.jagrkt.submitter").version("0.3.1")
+  id("org.jagrkt.submitter").version("0.4.0")
 }
 
 submit {
   assignmentId = "H01" // do not change assignmentId
+  archiveExtension = "jagr" // do not change archiveExtension
   studentId = null // TU-ID  z.B. "ab12cdef"
   firstName = null
   lastName = null
