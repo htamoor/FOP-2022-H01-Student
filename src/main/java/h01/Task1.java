@@ -5,7 +5,6 @@ import h01.misc.PropertyConverter;
 import h01.misc.PropertyException;
 
 import java.io.*;
-import java.util.Random;
 
 /**
  * Task 1 of Hausuebung01 of "Funktionale und objektorientierte
@@ -56,7 +55,6 @@ public class Task1 {
 
     public void execute() {
       initializeTask(NUMBER_OF_ROWS, NUMBER_OF_COLUMNS, nextFrameDelay, uiVisible);
-      Random random = new Random();
       // Hier programmieren
     }
 
