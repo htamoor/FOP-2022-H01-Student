@@ -8,7 +8,6 @@ plugins {
 
 submit {
   assignmentId = "h01" // do not change assignmentId
-  archiveExtension = "jagr" // do not change archiveExtension
   studentId = null // TU-ID  z.B. "ab12cdef"
   firstName = null
   lastName = null
